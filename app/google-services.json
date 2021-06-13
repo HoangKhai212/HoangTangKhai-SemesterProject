@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737297995093",
+    "project_id": "hoangtangkhai-semesterproject",
+    "storage_bucket": "hoangtangkhai-semesterproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737297995093:android:005a13f4202ea7fbff8bdc",
+        "android_client_info": {
+          "package_name": "com.example.hoangtangkhai_semesterproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737297995093-dn0d1d3nbjbndshfa889oqns3b429mtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQr-h8Xw2qwygu2lDjeVbmHqwoCp8h9tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737297995093-dn0d1d3nbjbndshfa889oqns3b429mtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

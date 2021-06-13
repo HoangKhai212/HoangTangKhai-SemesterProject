@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Workout"
+        android:icon="@drawable/ic_arm"
+        android:id="@+id/mWorkout"/>
+    <item android:title="Exercise"
+        android:icon="@drawable/list"
+        android:id="@+id/mExercise"/>
+    <item android:title="Weight"
+        android:icon="@drawable/ic_weight"
+        android:id="@+id/mWeight"/>
+</menu>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_chrono"
+        android:icon="@drawable/ic_chrono"
+        android:title="Chrono"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/workout"
+        android:title="Workout"
+        app:showAsAction="never|withText" />
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        app:showAsAction="never|withText" />
+    <item
+        android:id="@+id/exit"
+        android:title="Exit"
+        app:showAsAction="never|withText" />
+</menu>
